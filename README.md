@@ -1,6 +1,4 @@
-# Valentine's Day Interactive Website (CodeKage)
-
-Thank you to [@mewtru](https://instagram.com/mewtru) for the video idea!
+# Valentine's Day Interactive Website 
 
 This code was completely created from scratch! utilising Tailwind CSS!
 
@@ -45,3 +43,4 @@ Feel the love? Contributions are welcome! Whether it's a new GIF suggestion, des
 This project is open source and available under [MIT License](LICENSE).
 
 Happy Valentine's Day! Let's spread the love ❤️.
+
